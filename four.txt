@@ -1,1 +1,2 @@
 main, fourth file added
+this is a new line
